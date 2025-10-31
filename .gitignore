@@ -9,6 +9,7 @@
 
 #spotify auth/cache
 .cache/
+.cache
 
 #Python files
 __pycache__/
